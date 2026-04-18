@@ -1,9 +1,9 @@
 name: Generate Snake
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "0 0 * * *"
-  workflow_dispatch:
 
 jobs:
   generate:
@@ -15,11 +15,10 @@ jobs:
         with:
           github_user_name: enzo-gabriel-dev
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg?color_snake=#00BFFF&color_dots=#001f3f,#003366,#004080,#0059b3,#0073e6
+            dist/github-contribution-grid-snake-dark.svg
 
-      - name: push to output branch
-        uses: peaceiris/actions-gh-pages@v4
+      - name: deploy to output branch
+        uses: JamesIves/github-pages-deploy-action@v4
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
-          publish_branch: output
+          branch: output
+          folder: dist
