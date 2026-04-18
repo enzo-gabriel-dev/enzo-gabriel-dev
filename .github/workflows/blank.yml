@@ -1,0 +1,22 @@
+name: Generate Snake
+
+on:
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: generate snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: enzo-gabriel-dev
+          outputs: |
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#00BFFF&color_dots=#001f3f,#003366,#004080,#0059b3,#0073e6
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: snake
+          path: dist
