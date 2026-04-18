@@ -1,5 +1,7 @@
 <h1 align="center">Enzo Gabriel</h1>
 
+### 😁Sobre mim 
+
 Sou um jovem dedicado, responsável e comprometido com meu crescimento profissional. Concluí o Ensino Médio integrado ao curso técnico em Desenvolvimento de Sistemas pela Etec Jardim Ângela, onde desenvolvi uma base sólida em programação, lógica e organização de projetos. Atualmente curso Engenharia de Software na Universidade de Santo Amaro (UNISA), dando continuidade à minha formação na área da tecnologia.
 
 Gosto de criar projetos, aprender coisas novas e transformar ideias em código.
