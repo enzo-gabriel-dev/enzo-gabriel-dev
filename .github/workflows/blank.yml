@@ -1,6 +1,8 @@
 name: Generate Snake
 
 on:
+  schedule:
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -15,8 +17,9 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake-dark.svg?color_snake=#00BFFF&color_dots=#001f3f,#003366,#004080,#0059b3,#0073e6
 
-      - name: Upload artifact
-        uses: actions/upload-artifact@v4
+      - name: push to output branch
+        uses: peaceiris/actions-gh-pages@v4
         with:
-          name: snake
-          path: dist
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
