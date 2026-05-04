@@ -39,17 +39,16 @@ Gosto de criar projetos, aprender coisas novas e transformar ideias em código.
 
 ### 📊 Estatísticas
 
-<p align="center">
-  <img 
-    height="180" 
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=enzo-gabriel-dev&show_icons=true&theme=tokyonight&locale=pt-br&cache_seconds=1800" 
-  />
-
-  <img 
-    height="180" 
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=enzo-gabriel-dev&theme=tokyonight&layout=compact&custom_title=Tecnologias&cache_seconds=1800" 
-  />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=enzo-gabriel-dev&show_icons=true&theme=tokyonight&locale=pt-br&cache_seconds=1800"/>
+    </td>
+    <td>
+      <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=enzo-gabriel-dev&theme=tokyonight&layout=compact&custom_title=Tecnologias&cache_seconds=1800"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
