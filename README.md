@@ -8,7 +8,7 @@ Gosto de criar projetos, aprender coisas novas e transformar ideias em código.
 
 ---
 
-<p align="left">
+<p align="center">
     <a href="https://github.com/enzo-gabriel-dev?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
@@ -27,40 +27,29 @@ Gosto de criar projetos, aprender coisas novas e transformar ideias em código.
 
 ### 💻 Tecnologias que uso
 
-<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
-<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
+<p align="center">
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
+</p>
 
-<br/>
-<br/>
 ---
 
 ### 📊 Estatísticas
 
-<p>
+<p align="center">
   <img 
-    align="left" 
     height="180" 
-    src="https://github-readme-stats.vercel.app/api?username=enzo-gabriel-dev&show_icons=true&theme=tokyonight&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=enzo-gabriel-dev&show_icons=true&theme=tokyonight&locale=pt-br&cache_seconds=1800" 
   />
 
   <img 
-    align="left" 
     height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzo-gabriel-dev&theme=tokyonight&layout=compact&custom_title=Tecnologias" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzo-gabriel-dev&theme=tokyonight&layout=compact&custom_title=Tecnologias&cache_seconds=1800" 
   />
 </p>
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
 ---
 
